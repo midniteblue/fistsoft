@@ -1,2 +1,3 @@
 # fistsoft
-a private project
+前端学习笔记及资源记录
+
